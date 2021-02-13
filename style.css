@@ -10,6 +10,7 @@ body {
     border: 1px solid gray;
     border-radius: 6px;
  }
+ 
  #profile-image{
     width: 100%;
     height: auto;
@@ -18,3 +19,5 @@ body {
  #profile-name{
     text-align: center;
  }
+
+ 
